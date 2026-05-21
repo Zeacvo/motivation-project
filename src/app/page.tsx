@@ -950,7 +950,7 @@ export default function Home() {
                   <div key={f} className="pf"><div className="pf-check" style={{ opacity: .3 }}>✗</div><span style={{ opacity: .4 }}>{f}</span></div>
                 ))}
               </div>
-              <button className="price-btn outlined">Get Starter</button>
+              <button className="price-btn outlined">Get Starter TG BOT MOTIVATION CROWN</button>
             </div>
             {/* Pro */}
             <div className="price-card featured reveal reveal-delay-1">
